@@ -30,6 +30,7 @@ yargs
   .command(require('./import'))
   .command(require('./export'))
   .command(require('./compile'))
+  .command(require('./compile2'))
   // common options
   .help()
   .version()
