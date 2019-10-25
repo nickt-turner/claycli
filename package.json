@@ -59,7 +59,8 @@
     "jest": "^24.1.0",
     "jest-fetch-mock": "^1.7.5",
     "jest-mock-console": "^0.4.0",
-    "mock-fs": "^4.8.0"
+    "mock-fs": "^4.8.0",
+    "webpack": "^5.0.0-beta.1"
   },
   "dependencies": {
     "@babel/core": "^7.0.1",
@@ -121,7 +122,6 @@
     "uglifyify": "^5.0.1",
     "unreachable-branch-transform": "^0.5.1",
     "update-notifier": "^2.3.0",
-    "webpack": "^5.0.0-beta.1",
     "yargs": "^11.0.0"
   },
   "optionalDependencies": {
