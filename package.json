@@ -56,10 +56,12 @@
   "devDependencies": {
     "coveralls": "^3.0.0",
     "eslint": "^4.17.0",
+    "gulp-debug": "^4.0.0",
     "jest": "^24.1.0",
     "jest-fetch-mock": "^1.7.5",
     "jest-mock-console": "^0.4.0",
     "mock-fs": "^4.8.0",
+    "path-browserify": "^1.0.0",
     "webpack": "^5.0.0-beta.1"
   },
   "dependencies": {
